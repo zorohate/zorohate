@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently learning LOGICA DE PROGRAMAÇÃO
 - 💞️ I’m looking to collaborate on NADA NO MOMENTO
-- 📫 How to reach me ...
+- 📫 How to reach me POR AQUI MESMO
 
 <!---
 zorohate/zorohate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
